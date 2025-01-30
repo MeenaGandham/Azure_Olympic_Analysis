@@ -1,0 +1,12 @@
+{
+    "name": "athletes_http",
+    "properties": {
+        "annotations": [],
+        "type": "HttpServer",
+        "typeProperties": {
+            "url": "https://raw.github.com/MeenaGandham/Azure_Olympic_Analysis/main/data/Teams.csv",
+            "enableServerCertificateValidation": true,
+            "authenticationType": "Anonymous"
+        }
+    }
+}

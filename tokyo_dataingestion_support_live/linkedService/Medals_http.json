@@ -1,0 +1,12 @@
+{
+    "name": "Medals_http",
+    "properties": {
+        "annotations": [],
+        "type": "HttpServer",
+        "typeProperties": {
+            "url": "https://raw.github.com/MeenaGandham/Azure_Olympic_Analysis/main/data/Medals.csv",
+            "enableServerCertificateValidation": true,
+            "authenticationType": "Anonymous"
+        }
+    }
+}

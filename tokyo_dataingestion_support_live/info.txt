@@ -1,0 +1,6 @@
+selected resource name:		tokyo_dataingestion
+selected resource type:		pipeline
+factory name:			tokyoolympic-df-meena
+factory location:		eastus
+subscription id:		230baabf-634e-4a65-b586-20d87e3c2b0b
+time of download (UTC):		Sat, 25 Jan 2025 20:45:19 GMT
